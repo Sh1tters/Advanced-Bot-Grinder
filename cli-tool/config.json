@@ -1,0 +1,36 @@
+{
+  "accounts": [
+    {
+      "username": "",
+      "password": "",
+      "auth": ""
+    }
+  ],
+  "essentials": {
+    "owner_username": "",
+    "server_ip": "",
+    "server_version": "1.8.9",
+    "auto_reconnect": false,
+    "auto_message": {
+      "enabled": true,
+      "message": ""
+    },
+    "drop_inventory": {
+      "delay": "2000"
+    },
+    "anti-ban": "false",
+    "anti-afk-bypasser": "false"
+  },
+  "classified": {
+    "dwakdiawd__**^*¨324324sjawdi::dw23": {
+      "enabled": false,
+      ".-d*^*2314dwadwa": {
+        "x": 3784.5698503098865,
+        "y": 31,
+        "z": -2536.4351381382426
+      },
+      "237&#))!§§###": "0",
+      "DWSJidwai32813238#!!!#???": "0"
+    }
+  }
+}
